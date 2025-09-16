@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../api-users"
+    },
+    {
       "path": "../ui-layout"
     },
     {
