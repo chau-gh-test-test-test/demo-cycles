@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../feature-reports"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ],
+  "extends": "../../tsconfig.base.json"
+}

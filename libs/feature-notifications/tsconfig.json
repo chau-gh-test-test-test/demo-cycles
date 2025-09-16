@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../util-logging"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ],
+  "extends": "../../tsconfig.base.json"
+}

@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../ui-theme"
+    },
+    {
+      "path": "../feature-chat"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ],
+  "extends": "../../tsconfig.base.json"
+}

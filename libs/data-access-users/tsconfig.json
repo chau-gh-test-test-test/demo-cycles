@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "../api-users"
+    },
+    {
+      "path": "../feature-auth"
+    },
+    {
+      "path": "./tsconfig.lib.json"
+    }
+  ],
+  "extends": "../../tsconfig.base.json"
+}

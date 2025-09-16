@@ -8,6 +8,114 @@
     },
     {
       "path": "./apps/app-one"
+    },
+    {
+      "path": "./libs/feature-auth"
+    },
+    {
+      "path": "./libs/feature-profile"
+    },
+    {
+      "path": "./libs/feature-dashboard"
+    },
+    {
+      "path": "./libs/feature-settings"
+    },
+    {
+      "path": "./libs/feature-search"
+    },
+    {
+      "path": "./libs/feature-notifications"
+    },
+    {
+      "path": "./libs/feature-chat"
+    },
+    {
+      "path": "./libs/feature-billing"
+    },
+    {
+      "path": "./libs/feature-admin"
+    },
+    {
+      "path": "./libs/feature-reports"
+    },
+    {
+      "path": "./libs/util-logging"
+    },
+    {
+      "path": "./libs/util-dates"
+    },
+    {
+      "path": "./libs/util-validation"
+    },
+    {
+      "path": "./libs/util-caching"
+    },
+    {
+      "path": "./libs/util-testing"
+    },
+    {
+      "path": "./libs/util-formatting"
+    },
+    {
+      "path": "./libs/util-routing"
+    },
+    {
+      "path": "./libs/util-analytics"
+    },
+    {
+      "path": "./libs/util-image-processing"
+    },
+    {
+      "path": "./libs/ui-button"
+    },
+    {
+      "path": "./libs/ui-input"
+    },
+    {
+      "path": "./libs/ui-modal"
+    },
+    {
+      "path": "./libs/ui-table"
+    },
+    {
+      "path": "./libs/ui-avatar"
+    },
+    {
+      "path": "./libs/ui-card"
+    },
+    {
+      "path": "./libs/ui-layout"
+    },
+    {
+      "path": "./libs/ui-theme"
+    },
+    {
+      "path": "./libs/data-access-users"
+    },
+    {
+      "path": "./libs/data-access-products"
+    },
+    {
+      "path": "./libs/data-access-orders"
+    },
+    {
+      "path": "./libs/data-access-assets"
+    },
+    {
+      "path": "./libs/data-access-billing"
+    },
+    {
+      "path": "./libs/api-users"
+    },
+    {
+      "path": "./libs/api-products"
+    },
+    {
+      "path": "./libs/api-orders"
+    },
+    {
+      "path": "./libs/api-assets"
     }
   ]
 }
